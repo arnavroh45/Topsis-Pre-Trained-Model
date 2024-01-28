@@ -14,25 +14,25 @@ The models are ranked on the basis of their topsis score
 ## Performance Metrics
 
 ### F1 Score
-![F1 Score](f1_graph.png)
+![F1 Score](graphs/f1_graph.png)
 
 ### Accuracy
-![Accuracy](path/to/accuracy_graph.png)
+![Accuracy](graphs/accuracy_graph.png)
 
 ### Precision
-![Precision](path/to/precision_graph.png)
+![Precision](graphs/precision_graph.png)
 
 ### Recall
-![Recall](path/to/recall_graph.png)
+![Recall](graphs/recall_graph.png)
 
 ### Loss
-![Loss](path/to/loss_graph.png)
+![Loss](graphs/loss_graph.png)
 
 ### Topsis Score
-![Topsis Score](path/to/topsis_score_graph.png)
+![Topsis Score](graphs/topsis_score_graph.png)
 
 ### Rank
-![Rank](path/to/rank_graph.png)
+![Rank](graphs/rank_graph.png)
 
 More details and information about your project.
 
