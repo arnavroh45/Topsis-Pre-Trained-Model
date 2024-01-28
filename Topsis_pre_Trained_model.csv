@@ -1,0 +1,6 @@
+Model,F1,Accuracy,Precision,Recall,Loss
+DeBERTa-v3,0.994,0.994,0.994,0.994,0.0233
+DistilRoberta,0.987,0.9823,0.976,0.982,0.0356
+Bert-base-multilingual,0.953,0.962,0.975,0.985,0.0756
+twitter-XLM-roBERTa,0.962,0.976,0.975,0.976,0.0569
+Text Moderation,0.956,0.968,0.956,0.926,0.0863
