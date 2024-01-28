@@ -1,4 +1,4 @@
-# Topsis on Pre-Trained Text Classification Models
+# Topsis on Pre-Trained Text Classification Models by Arnav Sharma(102103162)
 
 The models are ranked based on their Topsis score
 
