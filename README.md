@@ -1,6 +1,6 @@
 # Topsis on Pre-Trained Text Classification Models
 
-The models are ranked on the basis of their topsis score
+The models are ranked based on their Topsis score
 
 | Model             |    F1 |   Accuracy |   Precision |   Recall |    Loss |   Topsis Score |   Rank |
 |:------------------|------:|-----------:|------------:|---------:|--------:|---------------:|-------:|
@@ -29,10 +29,8 @@ The models are ranked on the basis of their topsis score
 ![Loss](graphs/loss_graph.png)
 
 ### Topsis Score
-![Topsis Score](graphs/topsis_score_graph.png)
+![Topsis Score](graphs/topsis score_graph.png)
 
 ### Rank
 ![Rank](graphs/rank_graph.png)
-
-More details and information about your project.
 
