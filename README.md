@@ -29,7 +29,7 @@ The models are ranked based on their Topsis score
 ![Loss](graphs/loss_graph.png)
 
 ### Topsis Score
-![Topsis Score](graphs/topsis score_graph.png)
+![Topsis Score](graphs/topsis_score_graph.png)
 
 ### Rank
 ![Rank](graphs/rank_graph.png)
